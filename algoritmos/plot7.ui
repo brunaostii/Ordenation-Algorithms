@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>plot7</class>
+ <widget class="QWidget" name="plot7">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>880</width>
+    <height>666</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QChartView" name="a1">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>40</y>
+     <width>271</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a2">
+   <property name="geometry">
+    <rect>
+     <x>35</x>
+     <y>250</y>
+     <width>291</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a3">
+   <property name="geometry">
+    <rect>
+     <x>610</x>
+     <y>250</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a4">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>460</y>
+     <width>281</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a5">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>250</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a6">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>460</y>
+     <width>271</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a7">
+   <property name="geometry">
+    <rect>
+     <x>175</x>
+     <y>40</y>
+     <width>281</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QChartView</class>
+   <extends>QGraphicsView</extends>
+   <header>QtCharts</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

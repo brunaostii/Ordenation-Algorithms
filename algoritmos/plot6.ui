@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>plot6</class>
+ <widget class="QWidget" name="plot6">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>904</width>
+    <height>552</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QChartView" name="a1">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>271</width>
+     <height>211</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a2">
+   <property name="geometry">
+    <rect>
+     <x>315</x>
+     <y>40</y>
+     <width>261</width>
+     <height>211</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a3">
+   <property name="geometry">
+    <rect>
+     <x>595</x>
+     <y>40</y>
+     <width>281</width>
+     <height>211</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>270</y>
+     <width>271</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a5">
+   <property name="geometry">
+    <rect>
+     <x>315</x>
+     <y>270</y>
+     <width>261</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QChartView" name="a6">
+   <property name="geometry">
+    <rect>
+     <x>595</x>
+     <y>270</y>
+     <width>281</width>
+     <height>192</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QChartView</class>
+   <extends>QGraphicsView</extends>
+   <header>QtCharts</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
