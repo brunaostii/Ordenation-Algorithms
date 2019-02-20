@@ -4,11 +4,11 @@ This project was done for the subject of Analysis of Algorithms, where it seeks 
 </br>
 </br>
 Types of Ordination: <br/>
-- Seleção <br/>
-- Inserção <br/>
-- Bolha <br/>
+- Selection-sort <br/>
+- Insertion-sort <br/>
+- Bubble-sort <br/>
 - Shellsort <br/>
-- Intercalação (Merge-sort) <br/>
+- Merge-sort <br/>
 - Quiksort <br/>
 - TimSort
 
