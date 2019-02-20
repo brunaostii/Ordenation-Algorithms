@@ -19,3 +19,5 @@ Selection of algorithms, size of the vector, type of sort : </br></br>
 Operating algorithm: </br></br>
 <img src="https://github.com/brunaostii/Sort_Algorithms/blob/master/algoritmos.png" alt="Algorithm" width="500"/></br>
 
+Author:</br>
+- Bruna Almeida Osti
