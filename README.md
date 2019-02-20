@@ -12,7 +12,7 @@ Types of Ordination: <br/>
 - Quiksort <br/>
 - TimSort
 
-
+</br></br>
 Selection of algorithms, size of the vector, type of sort : </br></br>
 <img src="https://github.com/brunaostii/Sort_Algorithms/blob/master/algoritmos2.png" alt="Opening Interface" width="500"/></br>
 </br> 
